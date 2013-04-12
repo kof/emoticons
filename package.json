@@ -1,7 +1,7 @@
 {
     "name": "emoticons",
     "description": "Parse text emoticons and replace them by graphics.",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "author": {
         "name": "Oleg Slobodskoi",
         "email": "oleg008@gmail.com>"
