@@ -40,7 +40,7 @@ Example:
 
 ### emoticons.toString([fn:Function])
 
-Get html string with all primary emoticons in order to display an overview.
+Get html string with all primary emoticons in order to display an overview. Optionally pass your own template builder function.
 
 ### emoticons.tpl(name:String, code:String)
 
@@ -58,8 +58,4 @@ Example:
 Thanks to Chris Messina for making this overview http://factoryjoe.com/projects/emoticons
 
 Skype icons included in the package have special license, which is like BSD but without permission to modify them. See LICENSE file for original blog post.
-
-
-
-
-
+http://blogs.skype.com/2006/09/01/icons-and-strings
