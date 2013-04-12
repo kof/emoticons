@@ -1,5 +1,11 @@
 ## Parse text emoticons and replace them by graphics.
 
+This is a pure string based parser and has no dependencies to DOM or jquery.
+
+In order to insert an emoticon code into the textarea or input field you might want to use https://github.com/kof/field-selection
+
+Using default markup you are able to copy the emotified text together with emoticons codes.
+
 ### Get the api
 
     // Within commonjs
