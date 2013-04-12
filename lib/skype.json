@@ -205,7 +205,7 @@
     },
     "heart": {
         "title": "Heart",
-        "codes": ["(h)", "(H)", "(l)", "(L)"]
+        "codes": ["(h)", "<3", "(H)", "(l)", "(L)"]
     },
     "broken-heart": {
         "title": "Broken heart",
