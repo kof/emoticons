@@ -1,11 +1,15 @@
-.emoticon  {
+.emoticon {
     display: inline-block;
     width: 24px;
     height: 24px;
-    text-indent: -1000px;
+    text-indent: -10000px;
     overflow: hidden;
     cursor: text;
     background: url('emoticons.png') no-repeat;
+    text-align: left;
+}
+.emoticon > * {
+    display: none;
 }
 .emoticon-smile { background-position: 0 0; }
 .emoticon-sad-smile { background-position: 0 -29px; }
