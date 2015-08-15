@@ -10,6 +10,7 @@
         "type": "git",
         "url": "git@github.com:kof/emoticons.git"
     },
+    "main": "./lib/emoticons.js",
     "keywords": ["emoticon", "smily", "smilies", "emotify", "parser", "emoji", "skype"],
     "engines": {},
     "devDependencies": {},
