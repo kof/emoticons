@@ -19,6 +19,9 @@
         {
            "type": "MIT",
            "url": "http://www.opensource.org/licenses/mit-license.php"
+        },
+        {
+            "type": "Skype Component License 1.0"
         }
     ]
 }

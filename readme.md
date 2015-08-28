@@ -68,5 +68,4 @@ Example:
 
 Thanks to Chris Messina for making this overview http://factoryjoe.com/projects/emoticons
 
-Skype icons included in the package have a special license, which is like BSD but without permission to modify them. See LICENSE file and original blog post.
-http://blogs.skype.com/2006/09/01/icons-and-strings
+Skype icons included in the package have a special license, which is like BSD but without permission to modify them. See [LICENSE](./LICENSE.md) file.
